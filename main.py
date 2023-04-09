@@ -1,4 +1,4 @@
-# Written by Levent Alahan Tekinalp. You may use freely for non-gambling, non-adultery promoting or any project that does not attack values of others.
+# Written and created by Levent Alahan Tekinalp. You may use freely for non-gambling, non-adultery promoting or any project that does not attack values of others.
 
 import flet as ft
 from date_time_clock import date_time_box
